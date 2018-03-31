@@ -1,8 +1,8 @@
-package com.huantansheng.easyphotos.utils.String;
+﻿package com.huantansheng.easyphotos.utils.String;
 
 /**
  * 字符串工具类
- * Created by huan on 2017/10/20.
+ * Created by huan on 2017/10/20.朱公照
  */
 public class StringUtils {
     public static String getLastPathSegment(String content) {
